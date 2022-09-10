@@ -66,3 +66,4 @@ logDetail = (ninja) => {
     console.log(`${ninja.name} is ${ninja.age} years old`);
 };
 logDetail({ name: 'David', age: 40 });
+// 

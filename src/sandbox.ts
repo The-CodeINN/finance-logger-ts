@@ -92,3 +92,5 @@ logDetail = (ninja: person) => {
 }
 
 logDetail({ name: 'David', age: 40 });
+
+// 

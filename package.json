@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "i": "^0.3.7",
-    "typescript": "^4.8.2"
+    "typescript": "^4.8.3"
   }
 }
